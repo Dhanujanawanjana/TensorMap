@@ -83,3 +83,5 @@ Please read ['Note to Contributors'](https://github.com/scorelab/TensorMap/wiki/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/scorelab/TensorMap/blob/master/LICENSE) file for details
+New logo
+https://github.com/scorelab/TensorMap/issues/37#issuecomment-569561964
